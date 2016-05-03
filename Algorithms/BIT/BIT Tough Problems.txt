@@ -1,0 +1,5 @@
+BIT Tough Problems
+
+Check if a number is multiple of 9 using bitwise operators
+Calculate square of a number without using *, / and pow()
+Find the maximum subarray XOR in a given array

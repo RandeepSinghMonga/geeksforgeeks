@@ -1,0 +1,1 @@
+//Count number of binary strings without consecutive 1’s
